@@ -3,7 +3,8 @@
 This first-year Data Science Master academic project aims to explore some mathematical financial theories and the use of Machine Learning to cope with computational finance problems. 
 It is supported by the University of Lille and the Ecole Centrale de Lille.
 
-Mathematical settings for financial market modeling are at the basis of this study, as they are for the pricing and covering options problem. Here, this financial issue is explored in two major ways. 
+Mathematical settings for financial market modeling are at the basis of this study, as they are for the pricing and covering options problem.
+Here, this financial issue is explored in two major ways. 
 
 From the scope of mathematic first, by studying Black-Scholes (B-S) discrete and continuous models. It gives us analytical solutions thanks to Itô's stochastic calculus methods, but under constraining hypothesis on the underlying market rules.
 
